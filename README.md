@@ -5,7 +5,7 @@ Learn how to create, build, and deploy modern full stack applications in Azure l
 ## Features
 
 This project features the following capabilities.
-
+ 
 - azure-sql-database
 - github-actions
 - vs-code
